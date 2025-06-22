@@ -1,0 +1,10 @@
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+transformers
+python-docx
+docx2txt
+chainlit
+gradio
+tk
