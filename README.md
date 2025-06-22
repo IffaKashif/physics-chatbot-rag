@@ -21,3 +21,6 @@ git clone https://github.com/IffaKashif/physics-chatbot-rag
 cd physics-chatbot-rag
 pip install -r requirements.txt
 python chatbot_gradio.py
+
+![image](https://github.com/user-attachments/assets/d6ef11c0-c53d-4d2e-8530-1bcab4bc6f8a)
+
